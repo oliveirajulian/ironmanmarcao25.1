@@ -6,6 +6,7 @@ from tkinter import messagebox
 from recursos.funcoes import inicializarBancoDeDados
 from recursos.funcoes import escreverDados
 import json
+print("Inicializando o Jogo! Criado por Marcão.")
 
 pygame.init()
 inicializarBancoDeDados()

@@ -7,6 +7,7 @@ from recursos.funcoes import inicializarBancoDeDados
 from recursos.funcoes import escreverDados
 import json
 print("Inicializando o Jogo! Criado por Marcão.")
+print("Aperte enter para iniciar o jogo!")
 
 pygame.init()
 inicializarBancoDeDados()
@@ -279,3 +280,5 @@ def dead():
 
 start()
 
+# git add origin http....   adiciona 
+# git push origin main envia para o git hub
